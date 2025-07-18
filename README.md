@@ -1,10 +1,9 @@
 # Raspberry-Pi-StopLight
-Real time working stoplight with timers, working physical button, and a buzzer for audible preference. 
-Raspberry Pi Stoplight & Pedestrian System with LCD
 
 
 **Overview**
 Real time working stoplight with timers, working physical button, and a buzzer for audible preference. 
+
 Hardware: 
 - Raspberry Pi 5
 - 3x GPIO LEDs (Green, Yellow, Red)
